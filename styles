@@ -1,6 +1,14 @@
 @font-face {
- font-family: YOUR FONT NAME;
+ font-family: Red Hat Display;
+ font-style: normal;
+ font-weight: 700;
+ src: url("https://rawcdn.githack.com/Pyro5wan/fonts/05d9fd9db1929252d29ad7cbe7f0a746e866b0f5/RedHatDisplay-VariableFont_wght.ttf") ;
+}
+
+@font-face {
+ font-family: redhatblack;
  font-style: normal;
  font-weight: 400;
- src: url(YOUR RAW.GITHACK URL) ;
+ src: url("https://rawcdn.githack.com/Pyro5wan/fonts/05d9fd9db1929252d29ad7cbe7f0a746e866b0f5/RedHatDisplay-Black.ttf") ;
 }
+
